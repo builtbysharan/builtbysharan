@@ -50,7 +50,8 @@ and turning small sparks into meaningful digital experiences.
 
 ---
 
-### 📈 GitHub Stats
+### 💻 Behind the Code  
+> I build and experiment every day — here’s a glimpse behind the curtain.
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=builtbysharan&show_icons=true&theme=transparent&hide_border=true&title_color=2f81f7&text_color=9ca3af&icon_color=2f81f7&ring_color=2f81f7" />
