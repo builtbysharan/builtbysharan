@@ -25,7 +25,7 @@ Working quietly on a few projects exploring:
 - 🧠 Memory and reflection through local-first tools  
 - 💝 Interactive moments that merge code, design, and emotion  
 
-> More details soon — stay tuned via [LinkedIn](https://linkedin.com/in/sharan-iyengar-313744b8) or [builtbysharan.com](https://builtbysharan.com).
+> More details soon — stay tuned via [LinkedIn](https://linkedin.com/in/sharan-iyengar-313744b8) or [Medium](https://medium.builtbysharan.com/)
 
 ---
 
