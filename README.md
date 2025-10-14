@@ -46,11 +46,12 @@ and turning small sparks into meaningful digital experiences.
 <p align="center">
   <a href="https://builtbysharan.com"><img src="https://img.shields.io/badge/🌐_Website-blue?style=for-the-badge"></a>
   <a href="https://linkedin.com/in/sharan-iyengar-313744b8"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.builtbysharan.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium"></a>
 </p>
 
 ---
 
-### 💻 Behind the Code  
+<!-- ### 💻 Behind the Code  
 > I build and experiment every day — here’s a glimpse behind the curtain.
 
 <p align="center">
@@ -59,7 +60,7 @@ and turning small sparks into meaningful digital experiences.
 </p>
 
 ---
-
+-->
 <p align="center">
   <i>“Building sparks into scalable experiences — one project at a time.”</i><br/>
   <b>#BuiltBySharan</b>
